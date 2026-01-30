@@ -1,11 +1,23 @@
 
-  # HealthVault 2.0 Mobile UI
+  # Aegis - A health management app
 
-  This is a code bundle for HealthVault 2.0 Mobile UI. The original project is available at https://www.figma.com/design/YhYseLIurzddKwweDVxwFh/HealthVault-2.0-Mobile-UI.
+  This is a code bundle for Aegis, a health management app, made by Team Error 404 for the (Fail.exe)      
+  Hackathon. The team members are as follows:
+  Aneek Dutta
+  Ibrahim Tauheed
+  Abhinav Duhoon
+  Aditi Soni
 
-  ## Running the code
+  ## Prerequisites 
+    
+     npm
 
-  Run `npm i` to install the dependencies.
+  ### Running the code
+  Open Powershell as administrator and use cd command to switch to folder with installed files.
+
+  Run `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+
+  Run `npm install` to install the dependencies.
 
   Run `npm run dev` to start the development server.
   
