@@ -20,4 +20,6 @@
   Run `npm install` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
+  For demontration purposes, use the login id aneekdutta3005@outlook.com and the password CyclesRock@2021
   
